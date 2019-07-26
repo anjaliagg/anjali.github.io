@@ -259,6 +259,14 @@ button:focus {
   background: #4867AA;
 }
 
+.instagram a {
+  color: #f359ac;
+}
+
+.instagram a:hover {
+  background: #f359ac;
+}
+
 .twitter a {
   color: #1DA1F2;
 }
@@ -1458,6 +1466,11 @@ button:focus {
   color: #fff;
 }
 
+.single-team .social-list .instagram a:hover {
+  background: #f359ac;
+  color: #fff;
+}
+
 .single-team .social-list .twitter a:hover {
   background: #1da1f2;
   color: #fff;
@@ -2279,6 +2292,10 @@ footer .menu li a:hover {
 
 .footer-social li .facebook:hover {
   background-color: #3b5998;
+}
+
+.footer-social li .instagram:hover {
+  background-color: #ee1289;
 }
 
 .footer-social li .twitter:hover {
